@@ -4006,6 +4006,7 @@
         "dash_renderer",
         "equipment_preview_renderer",
         "editor_volume_highlight_renderer",
+        "editor_compass_renderer",
         // Chemistry
         "bohr_model_renderer",
         // 0.16
